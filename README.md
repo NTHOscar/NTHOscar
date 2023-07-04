@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=cHi there 👋&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Hi%20%20there%20👋&animation=twinkling" />
 </p>
-### Hi there 👋
+
 🔭 I’m currently studying Computer Science at CUHK
 <!--
 **NTHOscar/NTHOscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
