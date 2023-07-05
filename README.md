@@ -1,15 +1,16 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=Hi%20%20there,%20I'm%20Oscar👋&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=Hi%20%20there,%20I'm%20Oscar👋&animation=fadeIn" />
 </p>
 
 
-🔭 I’m currently studying Computer Science at CUHK
+- 🔭 I’m currently studying Computer Science at CUHK
+- 📫 How to reach me:
   <a href="">
-    <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-media-2247/50/social_media_web_network_logo-10-512.png"/>
+    <img height="25" src="https://cdn3.iconfinder.com/data/icons/social-media-2247/50/social_media_web_network_logo-10-512.png"/>
   </a>
 
 
-🚀 &nbsp;Some Tools I Have Used and Learned
+- 🚀 Some Tools I Have Used and Learned
 
 <p align="left">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45" title="C"/>
@@ -31,8 +32,7 @@
 
 </p>
 
----
-
+- 📈 My GitHub History
 ![Snake animation](https://github.com/NTHOscar/NTHOscar/blob/output/github-contribution-grid-snake.svg)
 
 <!--
