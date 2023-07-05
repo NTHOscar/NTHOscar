@@ -4,6 +4,7 @@
 
 
 - 🔭 I’m currently studying Computer Science at CUHK
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me:
   <a href="">
     <img height="25" src="https://cdn3.iconfinder.com/data/icons/social-media-2247/50/social_media_web_network_logo-10-512.png"/>
@@ -32,7 +33,7 @@
 
 </p>
 
-- 📈 My GitHub History
+- 📈 My GitHub History Snake
 ![Snake animation](https://github.com/NTHOscar/NTHOscar/blob/output/github-contribution-grid-snake.svg)
 
 <!--
