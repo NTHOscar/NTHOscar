@@ -11,7 +11,7 @@
   </a>
 
 
-- 🚀 Some Tools I Have Used and Learned
+- 🚀 Some Tools I have used and learned
 
 <p align="left">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45" title="C"/>
