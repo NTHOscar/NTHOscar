@@ -3,7 +3,7 @@
 </p>
 
 
-- 🔭 I’m currently studying Computer Science at CUHK
+- 🔭 I’m a Computer Science at The Chinese University of Hong Kong
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me:
   <a href="">
