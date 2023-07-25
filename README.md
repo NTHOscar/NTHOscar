@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me:
   <a href="">
-    <img height="25" src="https://www.linkedin.com/in/oscar-ngai/"/>
+    <img height="25" src=""/>
   </a>
 
 
