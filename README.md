@@ -5,10 +5,12 @@
 
 - 🔭 I’m a Computer Science at The Chinese University of Hong Kong
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me:
+  <!--
+  📫 How to reach me:
   <a href="">
     <img height="25" src=""/>
   </a>
+  --->
 
 
 - 🚀 Some Tools I have used and learned
