@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m a Computer Science at The Chinese University of Hong Kong
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning basics
   <!--
   📫 How to reach me:
   <a href="">
