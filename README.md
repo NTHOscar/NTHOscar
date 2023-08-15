@@ -4,7 +4,10 @@
 
 
 - 🔭 I’m a Computer Science at The Chinese University of Hong Kong
-- 🌱 I’m currently learning Machine Learning basics
+- 🌱 I’m currently learning and about to learn:
+  - Machine Learning basics
+  - Langchain
+  - Java Spring Boot
   <!--
   📫 How to reach me:
   <a href="">
