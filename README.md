@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning and about to learn:
   - Machine Learning basics
   - Langchain
-  - Java Spring Boot
+  - Next.js
   <!--
   📫 How to reach me:
   <a href="">
