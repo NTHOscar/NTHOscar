@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m a Computer Science student at The Chinese University of Hong Kong
-- 🌱 I’m currently learning and about to learn:
+- 🌱 I’m currently learning:
   - Spring Boot
   - Langchain
   - Next.js
