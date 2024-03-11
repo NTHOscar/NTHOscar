@@ -5,7 +5,7 @@
 
 - 🔭 I’m a Computer Science student at The Chinese University of Hong Kong
 - 🌱 I’m currently learning and about to learn:
-  - Machine Learning basics
+  - Spring Boot
   - Langchain
   - Next.js
   <!--
